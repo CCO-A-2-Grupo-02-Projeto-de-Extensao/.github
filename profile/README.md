@@ -24,7 +24,7 @@ O objetivo é centralizar o desenvolvimento, documentação e infraestrutura da 
 - Pedro Cesar Abramo de Almeida
 - Pedro Claudino Barbosa
 - Pedro Henrique Maciel Vieira do Amaral
-- Vinicius Rocha de Barros
+- Vinícius Rocha de Barros
 
 ---
 
